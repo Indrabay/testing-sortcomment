@@ -1,0 +1,17 @@
+{
+  "name": "sort-comment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest-mock-axios": "^2.1.11",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
